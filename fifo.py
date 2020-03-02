@@ -1,0 +1,12 @@
+# from collections import deque
+# quee = deque([])
+# quee.append(1)
+# quee.append(2)
+# quee.append(3)
+# print(quee)
+# quee.popleft()
+# print(quee)
+# quee.popleft()
+# print(quee)
+# quee.append(4)
+# print(quee)
